@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+## It's me, Lilith!
 
 - 🔭 I’m currently working on a web project for our Capstone project
 - 🌱 I’m currently learning PHP, Javascript, HTML and CSS
